@@ -1,5 +1,5 @@
 # 📘 Compte Rendu -- Analyse d'un Projet de Data Science (Churn Client Bancaire)
-
+![WhatsApp Image 2025-12-11 à 11 55 52_0faca475](https://github.com/user-attachments/assets/5b1d9479-1fd4-4a1f-90b6-fee943f66bd2)
 ## 1. Contexte Métier
 
 Une banque souhaite réduire la défection client (*churn*), phénomène
@@ -93,7 +93,9 @@ performant.
     clients à risque\
 -   **Precision ≈ 87%** → lorsqu'il alerte, il a raison dans la grande
     majorité des cas
+![WhatsApp Image 2025-12-11 à 11 49 13_655042af](https://github.com/user-attachments/assets/6057c5c4-0ac3-4f94-bea2-c64eb50458c2)
 
+![WhatsApp Image 2025-12-11 à 11 49 13_03fbaf20](https://github.com/user-attachments/assets/6578a51e-2027-4816-8a27-6ff967f9b42e)
 ------------------------------------------------------------------------
 
 ## Conclusion Générale
